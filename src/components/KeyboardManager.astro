@@ -1,7 +1,5 @@
 ---
 import {basics} from "@cv";
-import LinkedIn from "@/icons/LinkedIn.astro";
-import Github from "@/icons/Github.astro";
 
 const {profiles} = basics;
 const SOCIAL_ICONS: Record<string, string | any> = {
@@ -63,7 +61,7 @@ const profilesInfo = profiles.map(({network, url}) => {
         const info = ninja.getAttribute("data-info") ?? "[]"
         const parsedInfo = JSON.parse(info)
 
-        const data = parsedInfo.map((item) => {
+        const data = parsedInfo.map((item: any) => {
 
             return {
                 ...item,
