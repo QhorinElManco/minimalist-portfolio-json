@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Maynor Bethuell Pineda",
-    "label": "Full Stack Developer con más de 2 años de experiencia",
+    "label": "Full Stack Developer",
     "image": "/me.webp",
     "email": "sbethuell@gmail.com",
     "phone": "+504 9619-9660",
-    "summary": "Con más de dos años de experiencia como desarrollador web, he cultivado habilidades tanto en el frontend como en el backend. Durante este tiempo, he trabajado en una variedad de entornos, desde el mantenimiento de aplicaciones existentes hasta el desarrollo completo de aplicaciones desde cero. Mi experiencia diversa me ha permitido adquirir un sólido conjunto de habilidades técnicas y una comprensión profunda del ciclo de vida del desarrollo de software.",
+    "summary": "Desarrollador web con más de dos años de experiencia, he cultivado habilidades tanto en el frontend como en el backend. Durante este tiempo, he trabajado en una variedad de entornos, desde el mantenimiento de aplicaciones existentes hasta el desarrollo completo de aplicaciones desde cero. Mi experiencia diversa me ha permitido adquirir un sólido conjunto de habilidades técnicas y una comprensión profunda del ciclo de vida del desarrollo de software.",
     "location": {
       "address": "",
       "postalCode": "12101",
@@ -32,7 +32,8 @@
       "position": "Analista | Desarrollador Full Stack",
       "startDate": "2022-03-01",
       "endDate": "2024-02-29",
-      "summary": "Como desarrollador Full Stack en Media Interactiva, me desempeñé en un rol que combinaba responsabilidades de análisis y desarrollo. Enfoqué mis esfuerzos en la creación de aplicaciones web utilizando Django Rest Framework en el backend y NextJS en el frontend. Destacan mis logros en el diseño de interfaces de usuario, la implementación de Rest API y la automatización de tareas asíncronas. Mi capacidad para desempeñar un papel analítico me permitió comprender las necesidades del proyecto y traducirlas en soluciones técnicas efectivas y eficientes."
+      "summary": "Como desarrollador Full Stack en Media Interactiva, me desempeñé en un rol que combinaba responsabilidades de análisis y desarrollo. Enfoqué mis esfuerzos en la creación de aplicaciones web utilizando Django Rest Framework en el backend y NextJS en el frontend. Destacan mis logros en el diseño de interfaces de usuario, la implementación de Rest API y la automatización de tareas asíncronas. Mi capacidad para desempeñar un papel analítico me permitió comprender las necesidades del proyecto y traducirlas en soluciones técnicas efectivas y eficientes.",
+      "url": "https://www.mediainteractiva.net"
     },
     {
       "name": "Agrega S. de R.L. de C.V.",
@@ -40,9 +41,7 @@
       "startDate": "2021-11-01",
       "endDate": "2022-04-29",
       "summary": "Adquirí experiencia en el análisis y diseño de proyectos Cloud Native en Google Cloud Platform (GCP), así como en el diseño de bases de datos eficientes. En el desarrollo Backend, utilicé Python con frameworks como Flask y Django, mientras que en el Frontend trabajé con NodeJS y VueJS. También tuve la oportunidad de trabajar en el desarrollo de aplicaciones basadas en microservicios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "url": "https://www.agrega.com"
     }
   ],
   "education": [

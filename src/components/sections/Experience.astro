@@ -4,7 +4,7 @@ import {work} from "@cv";
 ---
 <Section title="Experiencia">
     <ul>
-        {work.map(({startDate, endDate, name, position, summary}) => {
+        {work.map(({startDate, endDate, name, position, summary, url}) => {
             const startYear = new Date(startDate).getFullYear();
             const endYear = endDate ? new Date(endDate).getFullYear() : "Present";
             const period = `${startYear} - ${endYear}`;
@@ -13,7 +13,11 @@ import {work} from "@cv";
                         <article>
                             <header>
                                 <div>
-                                    <h3>{name}</h3>
+                                    <h3>
+                                        <a href={url} target="_blank" title={`Visitar ${name}`}>
+                                            {name}
+                                        </a>
+                                    </h3>
                                     <h4>{position}</h4>
                                 </div>
                                 <time>
@@ -36,6 +40,13 @@ import {work} from "@cv";
         gap: 32px;
     }
 
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 4px;
+    }
+
     article h3 {
         font-weight: 500;
         color: #111
@@ -46,15 +57,23 @@ import {work} from "@cv";
         color: #333;
     }
 
-    header {
-        display: flex;
-        justify-content: space-between;
-        align-items: flex-start;
-        margin-bottom: 4px;
+    article a {
+        color: #111;
+    }
+
+    article a:hover {
+        text-decoration: underline;
     }
 
     time {
-        font-size: 0.85em;
+        font-size: .85em;
         color: #666;
+        min-width: 102px;
+    }
+
+    @media (width <= 700px) {
+        time {
+            text-align: right;
+        }
     }
 </style>

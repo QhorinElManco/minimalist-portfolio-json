@@ -22,7 +22,6 @@ const printInfo = [email, phone, linkedInUrl].filter(Boolean).join(" • ")
 ---
 
 <Section>
-
     <div class="container">
         <div class="info">
             <h1>{name}</h1>
@@ -143,4 +142,19 @@ const printInfo = [email, phone, linkedInUrl].filter(Boolean).join(" • ")
     footer a:hover {
         background-color: #eee;
     }
+
+    @media (width <= 700px) {
+        .container {
+            flex-direction: column-reverse;
+        }
+
+        .info {
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding-right: 0;
+        }
+    }
+
+
 </style>
