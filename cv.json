@@ -234,14 +234,38 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "name": "Shop-App",
+      "isActive": false,
+      "description": "Es un e-commerce desarrollado con NextJS con integración con PayPal, MongoBD.",
+      "github": "https://github.com/QhorinElManco/Shop-NextJS",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "https://mars.codes"
+        "En desarrollo",
+        "Frontend",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Open-Jira",
+      "isActive": true,
+      "description": "Es un tablero de tareas inspirado en Trello desarrollado con NextJS, TypeScript, Mongo.",
+      "url": "https://open-jira-by-mbps.vercel.app",
+      "github": "https://github.com/QhorinElManco/Open-Jira",
+      "highlights": [
+        "TypeScript",
+        "Frontend",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Poke Page",
+      "isActive": true,
+      "description": "Es una página web que muestra información de los pokemones desarrollada con NextJS, TypeScript, PokeAPI.",
+      "url": "https://poke-page-mpineda-dcjrde7e0-qhorinelmanco.vercel.app",
+      "github": "https://github.com/QhorinElManco/pokemonAPI-nextjs",
+      "highlights": [
+        "TypeScript",
+        "Frontend"
+      ]
     }
   ]
 }
