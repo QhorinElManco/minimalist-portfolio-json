@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Maynor Bethuell Pineda",
-    "label": "Full Stack Developer",
+    "label": "Desarrollador Full Stack",
     "image": "/me.webp",
     "email": "sbethuell@gmail.com",
     "phone": "+504 9619-9660",
-    "summary": "Desarrollador web con más de dos años de experiencia, he cultivado habilidades tanto en el frontend como en el backend. Durante este tiempo, he trabajado en una variedad de entornos, desde el mantenimiento de aplicaciones existentes hasta el desarrollo completo de aplicaciones desde cero. Mi experiencia diversa me ha permitido adquirir un sólido conjunto de habilidades técnicas y una comprensión profunda del ciclo de vida del desarrollo de software.",
+    "summary": "Soy un desarrollador web con más de dos años de experiencia, especializado en el desarrollo Full Stack. Durante este tiempo, he trabajado en una variedad de entornos, desde el mantenimiento de aplicaciones existentes hasta el desarrollo completo de proyectos desde cero. Mi experiencia diversa me ha permitido adquirir un sólido conjunto de habilidades técnicas y una comprensión profunda del ciclo de vida del desarrollo de software.",
     "location": {
       "address": "",
       "postalCode": "12101",
@@ -32,7 +32,7 @@
       "position": "Analista | Desarrollador Full Stack",
       "startDate": "2022-03-01",
       "endDate": "2024-02-29",
-      "summary": "Como desarrollador Full Stack en Media Interactiva, me desempeñé en un rol que combinaba responsabilidades de análisis y desarrollo. Enfoqué mis esfuerzos en la creación de aplicaciones web utilizando Django Rest Framework en el backend y NextJS en el frontend. Destacan mis logros en el diseño de interfaces de usuario, la implementación de Rest API y la automatización de tareas asíncronas. Mi capacidad para desempeñar un papel analítico me permitió comprender las necesidades del proyecto y traducirlas en soluciones técnicas efectivas y eficientes.",
+      "summary": "Como parte de mi rol en Media Interactiva, combiné responsabilidades de análisis y desarrollo para crear aplicaciones web utilizando Django Rest Framework en el backend y NextJS en el frontend. Destacan mis logros en el diseño de interfaces de usuario, la implementación de Rest API y la automatización de tareas asíncronas. Mi capacidad analítica me permitió comprender las necesidades del proyecto y traducirlas en soluciones técnicas efectivas y eficientes.",
       "url": "https://www.mediainteractiva.net"
     },
     {
@@ -40,8 +40,16 @@
       "position": "Analista | Desarrollador (Práctica profesional universitaria)",
       "startDate": "2021-11-01",
       "endDate": "2022-04-29",
-      "summary": "Adquirí experiencia en el análisis y diseño de proyectos Cloud Native en Google Cloud Platform (GCP), así como en el diseño de bases de datos eficientes. En el desarrollo Backend, utilicé Python con frameworks como Flask y Django, mientras que en el Frontend trabajé con NodeJS y VueJS. También tuve la oportunidad de trabajar en el desarrollo de aplicaciones basadas en microservicios.",
+      "summary": "Durante mi práctica profesional, adquirí experiencia en el análisis y diseño de proyectos Cloud Native en Google Cloud Platform (GCP). Además, trabajé en el desarrollo Backend utilizando Python con frameworks como Flask y Django, mientras que en el Frontend utilicé NodeJS y VueJS. También tuve la oportunidad de trabajar en el desarrollo de aplicaciones basadas en microservicios.",
       "url": "https://www.agrega.com"
+    },
+    {
+      "name": "Ferretería El Maestro, S.A.",
+      "position": "Ayudante de bodega",
+      "startDate": "2017-12-11",
+      "endDate": "2018-01-31",
+      "summary": "Durante mi tiempo en Ferretería El Maestro, trabajé en el área de bodega, donde adquirí habilidades de organización y gestión de inventario. Además, tuve la oportunidad de interactuar con clientes y proveedores, lo que me permitió desarrollar habilidades de comunicación y servicio al cliente.",
+      "url": "https://www.infop.hn"
     }
   ],
   "education": [
