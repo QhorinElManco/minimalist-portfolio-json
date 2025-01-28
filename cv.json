@@ -5,7 +5,7 @@
     "image": "/me.webp",
     "email": "sbethuell@gmail.com",
     "phone": "+504 9619-9660",
-    "summary": "Soy un desarrollador web con más de dos años de experiencia, especializado en el desarrollo Full Stack. Durante este tiempo, he trabajado en una variedad de entornos, desde el mantenimiento de aplicaciones existentes hasta el desarrollo completo de proyectos desde cero. Mi experiencia diversa me ha permitido adquirir un sólido conjunto de habilidades técnicas y una comprensión profunda del ciclo de vida del desarrollo de software.",
+    "summary": "Soy un desarrollador con más de dos años de experiencia especializado en desarrollo Full Stack. Durante este tiempo, he trabajado en una variedad de entornos, desde el mantenimiento de aplicaciones existentes hasta el desarrollo completo de proyectos desde cero. Esta experiencia me ha permitido adquirir un sólido conjunto de habilidades técnicas y una comprensión profunda del ciclo de vida del desarrollo de software.",
     "location": {
       "address": "",
       "postalCode": "12101",
@@ -27,6 +27,13 @@
     ]
   },
   "work": [
+    {
+      "name": "Banco de occidente",
+      "position": "Desarrollador FullStack",
+      "startDate": "2024-04-08",
+      "summary": "Desarrollo y mantengo aplicaciones empresariales utilizando lenguajes como C#, Java y frameworks como Angular y .Net Core. También gestiono bases de datos en SQL Server y DB2, y participo en la implementación de API REST y arquitecturas MVC para soluciones escalables. Mi enfoque se centra en garantizar la eficiencia, seguridad y cumplimiento de estándares en cada proyecto.",
+      "url": "https://bancodeoccidente.hn"
+    },
     {
       "name": "Media Interactiva CO S.A.",
       "position": "Analista | Desarrollador Full Stack",
@@ -236,6 +243,38 @@
         "Frontend",
         "JavaScript Library",
         "UI"
+      ]
+    },
+    {
+      "name": "C#",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Angular",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "DB2",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": ".Net Core",
+      "keywords": [
+        "Backend",
+        "Fullstack"
       ]
     }
   ],
