@@ -1,317 +1,112 @@
 {
   "basics": {
-    "name": "Maynor Bethuell Pineda",
-    "label": "Desarrollador Full Stack",
+    "name": "Ondina Nereyda Osorio Cardenas",
+    "label": "Enfermera Licenciada",
     "image": "/me.webp",
-    "email": "sbethuell@gmail.com",
-    "phone": "+504 9619-9660",
-    "summary": "Soy un desarrollador con más de dos años de experiencia especializado en desarrollo Full Stack. Durante este tiempo, he trabajado en una variedad de entornos, desde el mantenimiento de aplicaciones existentes hasta el desarrollo completo de proyectos desde cero. Esta experiencia me ha permitido adquirir un sólido conjunto de habilidades técnicas y una comprensión profunda del ciclo de vida del desarrollo de software.",
+    "email": "nereydaosorio4@gmail.com",
+    "phone": "+504 9483-8220",
+    "summary": "Enfermera licenciada con sólida formación teórica y práctica en atención al paciente, incluyendo cuidados básicos, administración de medicamentos y manejo de equipos médicos. Apasionada por brindar atención de calidad, comprometida con el bienestar integral del paciente y con experiencia en áreas ginecológicas, psiquiátricas y atención comunitaria.",
     "location": {
-      "address": "",
-      "postalCode": "12101",
-      "city": "Distrito Central",
+      "address": "Col. Altos de la Independencia",
+      "postalCode": null,
+      "city": "Tegucigalpa",
       "countryCode": "HN",
       "region": "Francisco Morazán"
     },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "Bethuell Pineda",
-        "url": "https://linkedin.com/in/bethuell-pineda-221696150"
-      },
-      {
-        "network": "Github",
-        "username": "QhorinElManco",
-        "url": "https://github.com/QhorinElManco"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Banco de occidente",
-      "position": "Desarrollador FullStack",
-      "startDate": "2024-04-08",
-      "summary": "Desarrollo y mantengo aplicaciones empresariales utilizando lenguajes como C#, Java y frameworks como Angular y .Net Core. También gestiono bases de datos en SQL Server y DB2, y participo en la implementación de API REST y arquitecturas MVC para soluciones escalables. Mi enfoque se centra en garantizar la eficiencia, seguridad y cumplimiento de estándares en cada proyecto.",
-      "url": "https://bancodeoccidente.hn"
+      "name": "Hospital Escuela",
+      "position": "Enfermera en Servicio Social",
+      "startDate": "2023-09",
+      "endDate": "2024-09",
+      "summary": "Brindé atención directa a pacientes en áreas ginecológicas y sépticas, monitoreando signos vitales, administrando medicamentos y supervisando equipos médicos. Elaboré reportes médicos y coordiné actividades del personal de salud."
     },
     {
-      "name": "Media Interactiva CO S.A.",
-      "position": "Analista | Desarrollador Full Stack",
-      "startDate": "2022-03-01",
-      "endDate": "2024-02-29",
-      "summary": "Como parte de mi rol en Media Interactiva, combiné responsabilidades de análisis y desarrollo para crear aplicaciones web utilizando Django Rest Framework en el backend y NextJS en el frontend. Destacan mis logros en el diseño de interfaces de usuario, la implementación de Rest API y la automatización de tareas asíncronas. Mi capacidad analítica me permitió comprender las necesidades del proyecto y traducirlas en soluciones técnicas efectivas y eficientes.",
-      "url": "https://www.mediainteractiva.net"
+      "name": "Hospital Psiquiátrico Santa Rosita",
+      "position": "Enfermera en Ejercicio Profesional",
+      "startDate": "2023-06",
+      "endDate": "2023-08",
+      "summary": "Proporcioné cuidados a pacientes con trastornos mentales severos, administré medicación psiquiátrica y participé en intervenciones terapéuticas colaborativas. Manejo de crisis emocionales y fomento de la rehabilitación integral."
     },
     {
-      "name": "Agrega S. de R.L. de C.V.",
-      "position": "Analista | Desarrollador (Práctica profesional universitaria)",
-      "startDate": "2021-11-01",
-      "endDate": "2022-04-29",
-      "summary": "Durante mi práctica profesional, adquirí experiencia en el análisis y diseño de proyectos Cloud Native en Google Cloud Platform (GCP). Además, trabajé en el desarrollo Backend utilizando Python con frameworks como Flask y Django, mientras que en el Frontend utilicé NodeJS y VueJS. También tuve la oportunidad de trabajar en el desarrollo de aplicaciones basadas en microservicios.",
-      "url": "https://www.agrega.com"
-    },
-    {
-      "name": "Ferretería El Maestro, S.A.",
-      "position": "Ayudante de bodega",
-      "startDate": "2017-12-11",
-      "endDate": "2018-01-31",
-      "summary": "Durante mi tiempo en Ferretería El Maestro, trabajé en el área de bodega, donde adquirí habilidades de organización y gestión de inventario. Además, tuve la oportunidad de interactuar con clientes y proveedores, lo que me permitió desarrollar habilidades de comunicación y servicio al cliente.",
-      "url": "https://www.infop.hn"
+      "name": "Centro de Salud 3 de Mayo",
+      "position": "Enfermera en Ejercicio Profesional",
+      "startDate": "2023-04",
+      "endDate": "2023-06",
+      "summary": "Atención en consulta externa para pacientes con diversas patologías. Lideré campañas de vacunación aplicando más de 500 dosis y supervisé el cumplimiento del Programa Ampliado de Inmunización (PAI)."
     }
   ],
   "education": [
     {
       "institution": "Universidad Nacional Autónoma de Honduras",
-      "area": "Ingeniero en Sistemas",
-      "startDate": "2014-01-02",
-      "endDate": "2021-01-03"
+      "area": "Licenciatura en Enfermería",
+      "startDate": null,
+      "endDate": "2024"
     },
     {
-      "institution": "Centro de Formación Profesional San Juan Bosco",
-      "area": "Técnico en Informática",
-      "startDate": "2012-01-01",
-      "endDate": "2014-01-01"
-    },
-    {
-      "institution": "Instituto Hondureño de Educación por Radio",
-      "area": "Bachiller en Ciencias y Letras",
-      "startDate": "2012-01-01",
-      "endDate": "2014-01-01"
+      "institution": "Instituto Jesús Aguilar Paz",
+      "area": "Bachillerato Profesional en Contaduría y Finanzas",
+      "startDate": null,
+      "endDate": "2017"
     }
   ],
-  "certificates": [
-    {
-      "name": "Fundamentos De Base De Datos",
-      "date": "2021-03-05",
-      "issuer": "INFOP/Oracle"
-    },
-    {
-      "name": "Diseño De Base De Datos",
-      "date": "2021-05-21",
-      "issuer": "INFOP/Oracle"
-    },
-    {
-      "name": "Programación De Base De Datos Con SQL",
-      "date": "2021-07-09",
-      "issuer": "INFOP/Oracle"
-    },
-    {
-      "name": "Programación De Base De Datos Con PL/SQL I",
-      "date": "2021-08-27",
-      "issuer": "INFOP/Oracle"
-    },
-    {
-      "name": "Programación De Base De Datos Con PL/SQL II",
-      "date": "2021-10-22",
-      "issuer": "INFOP/Oracle"
-    }
-  ],
+  "certificates": [],
   "skills": [
     {
-      "name": "HTML",
+      "name": "Comunicación Efectiva",
       "keywords": [
-        "Desarrollo Web",
-        "Frontend"
+        "Trabajo en equipo",
+        "Atención al paciente"
       ]
     },
     {
-      "name": "CSS",
+      "name": "Manejo de Equipos Médicos",
       "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Diseño Responsive"
+        "Supervisión",
+        "Esterilización",
+        "Protocolos"
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "Gestión de Programas de Salud",
       "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "Fullstack"
+        "Campañas de vacunación",
+        "Organización"
       ]
     },
     {
-      "name": "Python",
+      "name": "Dominio de Paquete Office",
       "keywords": [
-        "Backend",
-        "Fullstack"
+        "Documentación médica",
+        "Presentaciones"
       ]
     },
     {
-      "name": "React",
+      "name": "Adaptabilidad y Resolución de Problemas",
       "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "JavaScript",
-        "Servidor"
-      ]
-    },
-    {
-      "name": "Django Rest Framework",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "Servidor"
-      ]
-    },
-    {
-      "name": "PostgreSQL",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Oracle SQL",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "Vue",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Astro",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "C#",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Angular",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "DB2",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
-      "name": ".Net Core",
-      "keywords": [
-        "Backend",
-        "Fullstack"
+        "Entornos hospitalarios",
+        "Trabajo bajo presión"
       ]
     }
   ],
-  "projects": [
+  "projects": [],
+  "references": [
     {
-      "name": "Shop-App",
-      "isActive": false,
-      "description": "Es un e-commerce desarrollado con NextJS con integración con PayPal, MongoBD.",
-      "github": "https://github.com/QhorinElManco/Shop-NextJS",
-      "highlights": [
-        "En desarrollo",
-        "Frontend",
-        "Backend"
-      ]
+      "name": "Lic. María Alejandra Ponce",
+      "position": "Jefa de Sala de Patológico",
+      "phone": "+504 9769-2192"
     },
     {
-      "name": "Open-Jira",
-      "isActive": true,
-      "description": "Es un tablero de tareas inspirado en Trello desarrollado con NextJS, TypeScript, Mongo.",
-      "url": "https://open-jira-by-mbps.vercel.app",
-      "github": "https://github.com/QhorinElManco/Open-Jira",
-      "highlights": [
-        "TypeScript",
-        "Frontend",
-        "Backend"
-      ]
+      "name": "Lic. Ana Raquel Cruz",
+      "position": "Jefa de Quirófanos",
+      "phone": "+504 9691-6762"
     },
     {
-      "name": "Poke Page",
-      "isActive": true,
-      "description": "Es una página web que muestra información de los pokemones desarrollada con NextJS, TypeScript, PokeAPI.",
-      "url": "https://poke-page-mpineda-dcjrde7e0-qhorinelmanco.vercel.app",
-      "github": "https://github.com/QhorinElManco/pokemonAPI-nextjs",
-      "highlights": [
-        "TypeScript",
-        "Frontend"
-      ]
+      "name": "Lic. Lesbia Raquel Rivera",
+      "position": "Jefa de Departamento Materno Infantil",
+      "phone": "+504 9924-1345"
     }
   ]
 }

@@ -1,12 +1,10 @@
 ---
 import Layout from '@/layouts/Layout.astro';
 import About from '@/components/sections/About.astro';
-import Certificates from "@/components/sections/Certificates.astro";
 import Education from '@/components/sections/Education.astro';
 import Experience from '@/components/sections/Experience.astro';
 import Hero from '@/components/sections/Hero.astro';
 import KeyboardManager from "@/components/KeyboardManager.astro";
-import Projects from '@/components/sections/Projects.astro';
 import Skills from '@/components/sections/Skills.astro';
 
 import {basics} from "@cv";
@@ -19,9 +17,7 @@ const {name, label} = basics;
         <About/>
         <Experience/>
         <Education/>
-        <Projects/>
         <Skills/>
-        <Certificates/>
     </main>
     <KeyboardManager/>
 </Layout>
