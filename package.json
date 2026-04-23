@@ -10,9 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.4",
-    "astro": "^5.1.10",
-    "ninja-keys": "^1.2.2",
-    "typescript": "^5.7.3"
+    "@astrojs/check": "0.9.8",
+    "astro": "6.1.9",
+    "ninja-keys": "1.2.2",
+    "typescript": "6.0.3"
   }
 }
