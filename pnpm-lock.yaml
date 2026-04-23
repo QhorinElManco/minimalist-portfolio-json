@@ -9,16 +9,16 @@ importers:
   .:
     dependencies:
       '@astrojs/check':
-        specifier: ^0.9.8
+        specifier: 0.9.8
         version: 0.9.8(prettier@3.8.3)(typescript@6.0.3)
       astro:
-        specifier: ^6.1.9
+        specifier: 6.1.9
         version: 6.1.9(rollup@4.60.2)(typescript@6.0.3)(yaml@2.8.3)
       ninja-keys:
-        specifier: ^1.2.2
+        specifier: 1.2.2
         version: 1.2.2
       typescript:
-        specifier: ^6.0.3
+        specifier: 6.0.3
         version: 6.0.3
 
 packages:
