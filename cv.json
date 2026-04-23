@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Maynor Bethuell Pineda",
-    "label": "Desarrollador Full Stack",
+    "label": "Analista | Desarrollador",
     "image": "/me.webp",
     "email": "sbethuell@gmail.com",
     "phone": "+504 9619-9660",
-    "summary": "Soy un desarrollador con más de dos años de experiencia especializado en desarrollo Full Stack. Durante este tiempo, he trabajado en una variedad de entornos, desde el mantenimiento de aplicaciones existentes hasta el desarrollo completo de proyectos desde cero. Esta experiencia me ha permitido adquirir un sólido conjunto de habilidades técnicas y una comprensión profunda del ciclo de vida del desarrollo de software.",
+    "summary": "Soy un desarrollador con más de cuatro años de experiencia especializado en desarrollo Full Stack. Durante este tiempo, he trabajado en una variedad de entornos, desde el mantenimiento de aplicaciones existentes hasta el desarrollo completo de proyectos desde cero. Esta experiencia me ha permitido adquirir un sólido conjunto de habilidades técnicas y una comprensión profunda del ciclo de vida del desarrollo de software.",
     "location": {
       "address": "",
       "postalCode": "12101",
@@ -61,6 +61,11 @@
   ],
   "education": [
     {
+      "institution": "UNIR México",
+      "area": "Maestría en Ingeniería de Software y Sistemas Informáticos",
+      "startDate": "2024-12-01"
+    },
+    {
       "institution": "Universidad Nacional Autónoma de Honduras",
       "area": "Ingeniero en Sistemas",
       "startDate": "2014-01-02",
@@ -80,6 +85,16 @@
     }
   ],
   "certificates": [
+    {
+      "name": "Fundamentos de SCRUM, metodología ágil gestión de proyectos",
+      "date": "2025-10-05",
+      "issuer": "UDEMY"
+    },
+    {
+      "name": "Arquitectura de aplicaciones empresariales con NET",
+      "date": "2024-11-23",
+      "issuer": "UDEMY"
+    },
     {
       "name": "Fundamentos De Base De Datos",
       "date": "2021-03-05",
