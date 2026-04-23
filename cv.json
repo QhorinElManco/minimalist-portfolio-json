@@ -5,7 +5,7 @@
     "image": "/me.webp",
     "email": "sbethuell@gmail.com",
     "phone": "+504 9619-9660",
-    "summary": "Soy un desarrollador con más de cuatro años de experiencia especializado en desarrollo Full Stack. Durante este tiempo, he trabajado en una variedad de entornos, desde el mantenimiento de aplicaciones existentes hasta el desarrollo completo de proyectos desde cero, participando también en migraciones de servicios para modernizar plataformas y asegurar continuidad operativa. Esta experiencia me ha permitido adquirir un sólido conjunto de habilidades técnicas y una comprensión profunda del ciclo de vida del desarrollo de software.",
+    "summary": "Desarrollador Full Stack con más de 4 años de experiencia en diseño, desarrollo y modernización de aplicaciones empresariales. Especializado en arquitecturas .NET (C#, ASP.NET Core) con enfoque en Clean Architecture, DDD y CQRS, aplicando patrones como Repository, Factory y Mediator. Experiencia en integración de servicios RESTful y SOAP, seguridad en endpoints mediante JWT y RBAC, validación con FluentValidation y pruebas unitarias con NUnit. Participación activa en pipelines CI/CD con Azure DevOps y despliegue con Docker en entornos bancarios. Actualmente cursando Maestría en Ingeniería de Software, con enfoque en soluciones escalables y de alto impacto.",
     "location": {
       "address": "",
       "postalCode": "12101",
@@ -31,7 +31,7 @@
       "name": "Banco de occidente",
       "position": "Desarrollador FullStack",
       "startDate": "2024-04-08",
-      "summary": "Desarrollo y mantengo aplicaciones empresariales con C#, Java, Angular y .NET Core. Implemento APIs REST/MVC e integro soluciones con SQL Server y DB2. Participé en la automatización de pipelines CI/CD con Azure DevOps y en migraciones de servicios para modernizar plataformas y mejorar la calidad de los despliegues.",
+      "summary": "Desarrollo y mantengo aplicaciones empresariales con C#, Java, Angular y .NET Core. Implemento APIs REST/MVC, servicios SOAP con ASP.NET, e integro soluciones con SQL Server y DB2. Aplico prácticas de seguridad en endpoints: autenticación basada en tokens, RBAC y validación de inputs con FluentValidation. Implemento pruebas unitarias con NUnit y participo en la automatización de pipelines CI/CD con Azure DevOps. Aplico principios de Clean Architecture combinados con DDD, CQRS y patrones de diseño como Repository, Factory y Mediator.",
       "url": "https://bancodeoccidente.hn"
     },
     {
@@ -47,7 +47,7 @@
       "position": "Analista | Desarrollador (Práctica profesional universitaria)",
       "startDate": "2021-11-01",
       "endDate": "2022-04-29",
-      "summary": "Durante mi práctica profesional, adquirí experiencia en el análisis y diseño de proyectos Cloud Native en Google Cloud Platform (GCP). Además, trabajé en el desarrollo Backend utilizando Python con frameworks como Flask y Django, mientras que en el Frontend utilicé NodeJS y VueJS. También tuve la oportunidad de trabajar en el desarrollo de aplicaciones basadas en microservicios.",
+      "summary": "Análisis y diseño de proyectos Cloud Native en Google Cloud Platform (GCP), con automatización de procesos mediante Google Cloud Functions. Desarrollo backend con Python usando Flask y Django, y frontend con NodeJS y VueJS. Trabajo en arquitecturas de microservicios.",
       "url": "https://www.agrega.com"
     },
     {
@@ -122,6 +122,60 @@
     }
   ],
   "skills": [
+    {
+      "name": "NUnit",
+      "keywords": [
+        "Testing",
+        "Pruebas Unitarias",
+        "QA",
+        "Backend"
+      ]
+    },
+    {
+      "name": "FluentValidation",
+      "keywords": [
+        "Validación",
+        "Backend",
+        ".NET",
+        "C#"
+      ]
+    },
+    {
+      "name": "SOAP / WCF",
+      "keywords": [
+        "Integración de Servicios",
+        "Backend",
+        "ASP.NET",
+        "Webservices"
+      ]
+    },
+    {
+      "name": "Clean Architecture",
+      "keywords": [
+        "Arquitectura de Software",
+        "DDD",
+        "CQRS",
+        "Patrones de Diseño"
+      ]
+    },
+    {
+      "name": "JWT / RBAC",
+      "keywords": [
+        "Seguridad",
+        "Autenticación",
+        "Backend",
+        "APIs"
+      ]
+    },
+    {
+      "name": "Google Cloud Platform",
+      "keywords": [
+        "Cloud",
+        "GCP",
+        "Cloud Functions",
+        "Microservicios"
+      ]
+    },
     {
       "name": "HTML",
       "keywords": [
