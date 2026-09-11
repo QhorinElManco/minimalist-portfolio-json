@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Maynor Bethuell Pineda",
-    "label": "Analista | Desarrollador",
+    "label": "Desarrollador FullStack | Analista",
     "image": "/me.webp",
     "email": "sbethuell@gmail.com",
     "phone": "+504 9619-9660",
-    "summary": "Desarrollador Full Stack con más de 4 años de experiencia en diseño, desarrollo y modernización de aplicaciones empresariales. Especializado en arquitecturas .NET (C#, ASP.NET Core) con enfoque en Clean Architecture, DDD y CQRS, aplicando patrones como Repository, Factory y Mediator. Experiencia en integración de servicios RESTful y SOAP, seguridad en endpoints mediante JWT y RBAC, validación con FluentValidation y pruebas unitarias con NUnit. Participación activa en pipelines CI/CD con Azure DevOps y despliegue con Docker en entornos bancarios. Actualmente cursando Maestría en Ingeniería de Software, con enfoque en soluciones escalables y de alto impacto.",
+    "summary": "Soy Analista y Desarrollador Full Stack con casi 5 años creando y modernizando aplicaciones empresariales. Me especializo en .NET con Clean Architecture, DDD y CQRS, trabajando en entornos bancarios con APIs seguras, CI/CD y Docker. Combino análisis funcional con desarrollo para llevar necesidades de negocio a soluciones escalables. Actualmente curso la Maestría en Ingeniería de Software en UNIR México.",
     "location": {
       "address": "",
       "postalCode": "12101",
@@ -29,9 +29,9 @@
   "work": [
     {
       "name": "Banco de occidente",
-      "position": "Desarrollador FullStack",
+      "position": "Desarrollador FullStack Jr",
       "startDate": "2024-04-08",
-      "summary": "Desarrollo y mantengo aplicaciones empresariales con C#, Java, Angular y .NET Core. Implemento APIs REST/MVC, servicios SOAP con ASP.NET, e integro soluciones con SQL Server y DB2. Aplico prácticas de seguridad en endpoints: autenticación basada en tokens, RBAC y validación de inputs con FluentValidation. Implemento pruebas unitarias con NUnit y participo en la automatización de pipelines CI/CD con Azure DevOps. Aplico principios de Clean Architecture combinados con DDD, CQRS y patrones de diseño como Repository, Factory y Mediator.",
+      "summary": "Responsable de desarrollo y mantenimiento de aplicaciones bancarias críticas con .NET y Angular. Modernización de servicios SOAP/REST con seguridad JWT + RBAC y persistencia en SQL Server/DB2. Aseguro calidad con NUnit, FluentValidation y pipelines CI/CD en Azure DevOps bajo principios Clean Architecture. Además desarrollo paquetes de utilidades internas reutilizadas por otros equipos para estandarizar integraciones y validaciones.",
       "url": "https://bancodeoccidente.hn"
     },
     {
