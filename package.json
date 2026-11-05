@@ -2,6 +2,13 @@
   "name": "minimalist-portfolio-json",
   "type": "module",
   "version": "0.0.1",
+  "packageManager": "pnpm@12.16.1",
+  "pnpm": {
+    "allowBuilds": {
+      "esbuild": true,
+      "sharp": true
+    }
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
