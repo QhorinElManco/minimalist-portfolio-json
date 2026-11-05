@@ -23,5 +23,3 @@ pnpm-debug.log*
 
 # Westorm IDE
 .idea/
-# local pnpm config (replaced by package.json pnpm field)
-pnpm-workspace.yaml
