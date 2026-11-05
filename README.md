@@ -36,6 +36,21 @@ pnpm create astro@latest -- --template midudev/minimalist-portfolio-json
 
 Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
 
+#### 📂 Versiones de CV
+
+Guardá una versión por postulación en la carpeta `cv/` y `cv.json` es la versión activa (la que se compila y despliega).
+
+```bash
+# Ver versiones y cuál está activa
+pnpm cv:set
+
+# Cambiar la versión activa (copia cv/<nombre>.json a cv.json)
+pnpm cv:set ingenieria-digital
+pnpm cv:set base
+```
+
+Para agregar una versión nueva: creá `cv/<nombre>.json`, ajustala a la oferta y activala con `pnpm cv:set <nombre>`. Al hacer commit y push, Vercel despliega la versión activa.
+
 ### 3. Lanza el servidor de desarrollo:
 
 ```bash
@@ -51,7 +66,8 @@ pnpm dev
 |:---|:----------------|:-----------------------------------------------------------------------------|
 | ⚙️ | `dev` o `start` | Lanza un servidor de desarrollo local en  `localhost:4321`.                  |
 | ⚙️ | `build`         | Comprueba posibles errores y hace un empaquetado de producción en `./dist/`. |
-| ⚙️ | `preview`       | Vista previa en local `localhost:4321`                                       |                                |
+| ⚙️ | `preview`       | Vista previa en local `localhost:4321`                                       |
+| 📂 | `cv:set`        | Lista o cambia la versión activa del CV (`pnpm cv:set <version>`)            |                                |
 
 ## 🔑 Licencia
 

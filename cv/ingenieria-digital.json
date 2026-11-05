@@ -1,0 +1,448 @@
+{
+  "basics": {
+    "name": "Maynor Bethuell Pineda",
+    "label": "AI Software Engineer",
+    "image": "/me.webp",
+    "email": "sbethuell@gmail.com",
+    "phone": "+504 9619-9660",
+    "summary": "Soy Desarrollador Full Stack con casi 5 años llevando productos de punta a punta, desde la conversación con el negocio hasta la entrega en producción. Me especializo en .NET con Clean Architecture, DDD y CQRS en entornos bancarios, y construyo producto con agentes de código (modelos de OpenCode orquestados desde Pi con Gentle AI): hoy tengo un agente de IA con tool use en producción, usado por decenas de usuarios. Defino estándares de desarrollo para el equipo mediante skills y paquetes reutilizables, y combino análisis funcional con desarrollo para traducir necesidades de negocio en soluciones escalables. Actualmente curso la Maestría en Ingeniería de Software en UNIR México.",
+    "location": {
+      "address": "",
+      "postalCode": "12101",
+      "city": "Distrito Central",
+      "countryCode": "HN",
+      "region": "Francisco Morazán"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Maynor Bethuell Pineda",
+        "url": "https://www.linkedin.com/in/maynor-bethuell-pineda-sauceda-221696150/"
+      },
+      {
+        "network": "Github",
+        "username": "QhorinElManco",
+        "url": "https://github.com/QhorinElManco"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Banco de occidente",
+      "position": "Desarrollador FullStack",
+      "startDate": "2024-04-08",
+      "summary": "Responsable de desarrollo y mantenimiento de aplicaciones bancarias críticas con .NET y Angular. Lideré el desarrollo de un agente de IA con tool use integrado a los sistemas del banco: en producción desde hace más de 3 meses y usado por decenas de usuarios, construido con stack C#/.NET y Angular acelerando el trabajo con agentes de código (modelos de OpenCode orquestados desde Pi con Gentle AI). Modernización de servicios SOAP/REST con seguridad JWT + RBAC y persistencia en SQL Server/DB2. Aseguro calidad con NUnit, FluentValidation y pipelines CI/CD en Azure DevOps bajo principios Clean Architecture. Defino estándares de patrones de desarrollo para el equipo mediante skills y desarrollo paquetes de utilidades internas reutilizadas por otros equipos. Participo en reuniones con equipos de negocio para traducir requerimientos en soluciones técnicas.",
+      "url": "https://bancodeoccidente.hn"
+    },
+    {
+      "name": "Media Interactiva CO S.A.",
+      "position": "Analista | Desarrollador Full Stack",
+      "startDate": "2022-03-01",
+      "endDate": "2024-02-29",
+      "summary": "Como parte de mi rol en Media Interactiva, combiné responsabilidades de análisis y desarrollo para crear aplicaciones web utilizando Django Rest Framework en el backend y NextJS en el frontend. Destacan mis logros en el diseño de interfaces de usuario, la implementación de Rest API y la automatización de tareas asíncronas. Mi capacidad analítica me permitió comprender las necesidades del proyecto y traducirlas en soluciones técnicas efectivas y eficientes.",
+      "url": "https://www.mediainteractiva.net"
+    },
+    {
+      "name": "Agrega S. de R.L. de C.V.",
+      "position": "Analista | Desarrollador (Práctica profesional universitaria)",
+      "startDate": "2021-11-01",
+      "endDate": "2022-04-29",
+      "summary": "Análisis y diseño de proyectos Cloud Native en Google Cloud Platform (GCP), con automatización de procesos mediante Google Cloud Functions. Desarrollo backend con Python usando Flask y Django, y frontend con NodeJS y VueJS. Trabajo en arquitecturas de microservicios.",
+      "url": "https://www.agrega.com"
+    },
+    {
+      "name": "Ferretería El Maestro, S.A.",
+      "position": "Ayudante de bodega",
+      "startDate": "2017-12-11",
+      "endDate": "2018-01-31",
+      "summary": "Durante mi tiempo en Ferretería El Maestro, trabajé en el área de bodega, donde adquirí habilidades de organización y gestión de inventario. Además, tuve la oportunidad de interactuar con clientes y proveedores, lo que me permitió desarrollar habilidades de comunicación y servicio al cliente.",
+      "url": "https://www.infop.hn"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNIR México",
+      "area": "Maestría en Ingeniería de Software y Sistemas Informáticos",
+      "startDate": "2024-12-01"
+    },
+    {
+      "institution": "Universidad Nacional Autónoma de Honduras",
+      "area": "Ingeniero en Sistemas",
+      "startDate": "2014-01-02",
+      "endDate": "2021-01-03"
+    },
+    {
+      "institution": "Centro de Formación Profesional San Juan Bosco",
+      "area": "Técnico en Informática",
+      "startDate": "2012-01-01",
+      "endDate": "2014-01-01"
+    },
+    {
+      "institution": "Instituto Hondureño de Educación por Radio",
+      "area": "Bachiller en Ciencias y Letras",
+      "startDate": "2012-01-01",
+      "endDate": "2014-01-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Fundamentos de SCRUM, metodología ágil gestión de proyectos",
+      "date": "2025-10-05",
+      "issuer": "UDEMY"
+    },
+    {
+      "name": "Arquitectura de aplicaciones empresariales con NET",
+      "date": "2024-11-23",
+      "issuer": "UDEMY"
+    },
+    {
+      "name": "Fundamentos De Base De Datos",
+      "date": "2021-03-05",
+      "issuer": "INFOP/Oracle"
+    },
+    {
+      "name": "Diseño De Base De Datos",
+      "date": "2021-05-21",
+      "issuer": "INFOP/Oracle"
+    },
+    {
+      "name": "Programación De Base De Datos Con SQL",
+      "date": "2021-07-09",
+      "issuer": "INFOP/Oracle"
+    },
+    {
+      "name": "Programación De Base De Datos Con PL/SQL I",
+      "date": "2021-08-27",
+      "issuer": "INFOP/Oracle"
+    },
+    {
+      "name": "Programación De Base De Datos Con PL/SQL II",
+      "date": "2021-10-22",
+      "issuer": "INFOP/Oracle"
+    }
+  ],
+  "skills": [
+    {
+      "name": "IA Generativa / LLMs",
+      "keywords": [
+        "Agentes de IA",
+        "Tool Use",
+        "Integración de LLMs",
+        "Automatización"
+      ]
+    },
+    {
+      "name": "OpenCode",
+      "keywords": [
+        "Agente de Código",
+        "IA",
+        "Desarrollo Asistido",
+        "Automatización"
+      ]
+    },
+    {
+      "name": "Pi + Gentle AI",
+      "keywords": [
+        "Harness de Agentes",
+        "Orquestación",
+        "Revisión de Código IA",
+        "Estándares de Desarrollo"
+      ]
+    },
+    {
+      "name": "NUnit",
+      "keywords": [
+        "Testing",
+        "Pruebas Unitarias",
+        "QA",
+        "Backend"
+      ]
+    },
+    {
+      "name": "FluentValidation",
+      "keywords": [
+        "Validación",
+        "Backend",
+        ".NET",
+        "C#"
+      ]
+    },
+    {
+      "name": "SOAP / WCF",
+      "keywords": [
+        "Integración de Servicios",
+        "Backend",
+        "ASP.NET",
+        "Webservices"
+      ]
+    },
+    {
+      "name": "Clean Architecture",
+      "keywords": [
+        "Arquitectura de Software",
+        "DDD",
+        "CQRS",
+        "Patrones de Diseño"
+      ]
+    },
+    {
+      "name": "JWT / RBAC",
+      "keywords": [
+        "Seguridad",
+        "Autenticación",
+        "Backend",
+        "APIs"
+      ]
+    },
+    {
+      "name": "Google Cloud Platform",
+      "keywords": [
+        "Cloud",
+        "GCP",
+        "Cloud Functions",
+        "Microservicios"
+      ]
+    },
+    {
+      "name": "HTML",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Python",
+      "keywords": [
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "React",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "Django Rest Framework",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Oracle SQL",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Vue",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Astro",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "C#",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Angular",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "DB2",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": ".Net Core",
+      "keywords": [
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Docker",
+      "keywords": [
+        "Contenedores",
+        "DevOps",
+        "Despliegue"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "keywords": [
+        "Automatización",
+        "DevOps",
+        "Integración Continua",
+        "Entrega Continua"
+      ]
+    },
+    {
+      "name": "Azure DevOps",
+      "keywords": [
+        "DevOps",
+        "Pipelines",
+        "Repositorios",
+        "Gestión de Proyectos"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Shop-App",
+      "isActive": false,
+      "description": "Es un e-commerce desarrollado con NextJS con integración con PayPal, MongoBD.",
+      "github": "https://github.com/QhorinElManco/Shop-NextJS",
+      "highlights": [
+        "En desarrollo",
+        "Frontend",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Open-Jira",
+      "isActive": true,
+      "description": "Es un tablero de tareas inspirado en Trello desarrollado con NextJS, TypeScript, Mongo.",
+      "url": "https://open-jira-by-mbps.vercel.app",
+      "github": "https://github.com/QhorinElManco/Open-Jira",
+      "highlights": [
+        "TypeScript",
+        "Frontend",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Poke Page",
+      "isActive": true,
+      "description": "Es una página web que muestra información de los pokemones desarrollada con NextJS, TypeScript, PokeAPI.",
+      "url": "https://poke-page-mpineda-dcjrde7e0-qhorinelmanco.vercel.app",
+      "github": "https://github.com/QhorinElManco/pokemonAPI-nextjs",
+      "highlights": [
+        "TypeScript",
+        "Frontend"
+      ]
+    }
+  ]
+}
